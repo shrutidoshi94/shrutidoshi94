@@ -7,7 +7,7 @@ I'm **Shruti Doshi**, a Data enthusiast with a background in Finance, now diving
 ## 😄 About Me
 
 - 📚 A **Commerce graduate** who found a passion for data and analytics  
-- 🔍 Former **Equity Analyst** and **Financial Data Analyst**, now bridging the gap between business & data  
+- 🔍 Former **Financial Data Analyst**, now bridging the gap between business & data  
 - 🧠 Always curious and currently learning **SQL**, **Python**, and **BI tools**  
 - 🚀 Strong believer in **continuous learning**, 📊 **data-driven insights**, and 💡 **problem-solving**
 
