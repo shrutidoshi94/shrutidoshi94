@@ -17,7 +17,7 @@ I'm **Shruti Doshi**, a Data enthusiast with a background in Finance, now diving
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shrutidoshi94&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutidoshi94&theme=radical" width="48%">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shrutidoshi94" alt="GitHub Streak" /></a>
 </p>
 
 ---
