@@ -15,9 +15,10 @@ I'm **Shruti Doshi**, a Data enthusiast with a background in Finance, now diving
 
 ## 📈 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrutidoshi94&show_icons=true&theme=radical" width="48%">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shrutidoshi94" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.shion.dev/api?username=shrutidoshi94" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shrutidoshi94" alt="GitHub Streak" /></a>
 </p>
 
 ---
@@ -33,7 +34,13 @@ I'm **Shruti Doshi**, a Data enthusiast with a background in Finance, now diving
 
 ### 💻 Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+### 📚 Libraries  
+![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/-Pandas-0075FF?style=flat&logo=polars&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
 
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
